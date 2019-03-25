@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This is a markdown file
 
-And it would like to say, Hello.
+And it would like to say, Hello. Hi.
